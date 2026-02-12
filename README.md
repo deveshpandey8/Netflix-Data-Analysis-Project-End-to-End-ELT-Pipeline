@@ -104,7 +104,7 @@ Version control and CI/CD via GitHub workflows.
 
 1. Clone repository
 
-git clone https://github.com/yourusername/netflix-dbt-project.git
+git clone https://github.com/deveshpandey8/Netflix-Data-Analysis-Project-End-to-End-ELT-Pipeline.git
 
 
 2. Configure dbt profiles.yml with Snowflake credentials.
